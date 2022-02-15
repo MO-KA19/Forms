@@ -1,0 +1,172 @@
+body{
+    background-image: url("nice art about earth.jpg");
+    width: 1500px;
+    height: 1020px;
+    float: bottom;
+}
+.header{
+    font-size:50px;
+    font-weight: bold;
+    font-family: Arial, serif;
+    float: right;
+    margin-right: -120px;
+    margin-top: 120px;
+    padding: 10px 10px 10px 10px;
+    background: orange;
+}
+
+.header:hover{
+    font-size: 75px;
+    transform: rotate(20deg);
+}
+.border{
+    height: 900px;
+    width: 450px;
+    background-image: linear-gradient(to left,#11193d,#5c175c);
+    border-radius: 30px;
+    margin-left: 250px;
+    margin-top: 30px;
+}
+
+.img{
+    margin-top: 20px;
+    margin-left: 170px;
+    height: 110px;
+    width: 110px;
+}
+
+.inp1img{
+    height: 40px;
+    width: 40px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.inp1{
+    width: 350px;
+    height: 20px;
+    margin-left: 40px;
+    margin-top: 0;
+    border-radius: 80px 0 80px 0;
+    padding: 14px 6px 6px 14px;
+    outline: none;
+}
+
+.passimag{
+    height: 40px;
+    width: 40px;
+    margin-top: 30px;
+    margin-left: 5px;
+}
+
+.inp2{
+    width: 350px;
+    height: 20px;
+    margin-left: 40px;
+    margin-top: 0;
+    border-radius: 80px 0 80px 0;
+    padding: 14px 6px 6px 14px;
+    outline: none;
+}
+
+.check{
+    height: 15px;
+    width: 15px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.terms{
+    font-size: 21px;
+    font-style: italic;
+    margin-left: 50px;
+    margin-top: -25px;
+}
+
+.href{
+    color: darkblue;
+}
+.href:hover{
+    color: hotpink;
+}
+
+.forgetpass{
+    font-size: 15px;
+    color: darkgoldenrod;
+    margin-bottom: 10px;
+    margin-top: 8px;
+    margin-left: 15px;
+}
+
+.forgetpass:hover{
+    color: firebrick;
+    font-size: 25px;
+}
+
+.butt{
+    height: 50px;
+    width: 250px;
+    margin-left: 110px;
+    margin-top: 50px;
+    background:#31525e;
+    border-radius: 100px 100px 100px 100px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.butt:hover{
+    background: lime;
+    cursor: pointer;
+}
+
+.hr{
+    width: 40%;
+    margin-top: 55px;
+    float: left;
+
+}
+
+.media{
+    font-size: 15px;
+    color: chocolate;
+    margin-left: 5px;
+    margin-top: 47px;
+
+}
+
+.hr2{
+    width: 39%;
+    margin-top: -25px;
+    float: right;
+}
+
+
+.mediaico{
+    margin-top: 10px;
+    margin-left: 125px;
+}
+
+.mediaico:hover{
+    height: 50px;
+    width: 50px;
+}
+
+.pintrest{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.pintrest:hover{
+    height: 50px;
+    width: 50px;
+}
+
+.insta{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.insta:hover{
+    height: 50px;
+    width: 50px;
+}
